@@ -50,10 +50,10 @@ diretamente no IntelliJ IDEA:
 - Execute a classe Main.java
 
 ## 📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## 👩‍💻 Autor
-Feito com 💙 por Laura
+Feito com 💙 por [Laura](https://github.com/OlivPax).
 
 
   
