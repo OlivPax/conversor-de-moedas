@@ -42,7 +42,7 @@ cd conversor-moedas-java
   ```
   private static final String API_KEY = "SUA_CHAVE_AQUI";
   ```
-  Você pode obter uma cahve gratuita em : ExchangeRate API
+  Você pode obter uma cahve gratuita em : [ExchangeRate API](https://www.exchangerate-api.com/)
 
 ### 3. Compile e execute
 diretamente no IntelliJ IDEA:
