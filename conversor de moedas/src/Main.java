@@ -7,7 +7,7 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
 public class Main {
-    private static final String API_KEY = "f559ce01f6d9279229147eff";
+    private static final String API_KEY = "API_KEY_HERE";
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/" + API_KEY + "/latest/";
 
     public static void main(String[] args) {
